@@ -34,4 +34,4 @@ Highlights:
 
 ##  Connect With Me
 - **LinkedIn**: [OmarHamedSec](https://linkedin.com/in/omar-hamed-sec)
-- **Gmail**: [OmarHamedSec](omarhamed.sec@gmail.com)
+- **Gmail**: omarhamed.sec@gmail.com
