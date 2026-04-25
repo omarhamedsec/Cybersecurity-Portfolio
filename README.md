@@ -2,7 +2,7 @@
 
 Welcome to my Cybersecurity Portfolio! This repository documents my journey, practical labs, and projects completed during intensive cybersecurity training programs.
 
-## 👨‍💻 About Me
+##  About Me
 My name is Omar Mohamed Abdel Moneim Hamed, a final-year Electronics & Communications Engineering student at Horus University. I am deeply passionate about Cybersecurity, focusing on Network Security, System Administration, and SOC Operations.
 
 ##  Repository Structure
@@ -34,3 +34,4 @@ Highlights:
 
 ##  Connect With Me
 - **LinkedIn**: [OmarHamedSec](https://linkedin.com/in/omar-hamed-sec)
+- **Gmail**: [OmarHamedSec](omarhamed.sec@gmail.com)
