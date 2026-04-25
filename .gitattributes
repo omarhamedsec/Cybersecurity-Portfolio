@@ -1,0 +1,29 @@
+# Cisco Packet Tracer files - treat as binary
+*.pka binary
+*.pkt binary
+*.pkz binary
+
+# Archive files - treat as binary
+*.rar binary
+*.zip binary
+*.gz binary
+*.tar binary
+
+# Microsoft Office files - treat as binary
+*.pptx binary
+*.docx binary
+*.doc binary
+*.xlsx binary
+
+# CHM help files - treat as binary
+*.chm binary
+
+# PDF files - treat as binary
+*.pdf binary
+
+# Image files - treat as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
