@@ -1,0 +1,11 @@
+# Ignore large files that exceed GitHub's 100MB limit
+*.mp4
+*.iso
+*.ova
+*.vmdk
+*.exe
+SysinternalsSuite.zip
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
